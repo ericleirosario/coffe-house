@@ -54,7 +54,7 @@ header {
 
 .banner {
     height: 100vh;
-    background-image: url(../assets/parallax-imagem1.png);
+    background-image: url('../assets/parallax-imagem1.png');
     background-size: cover;
     background-attachment: fixed;
     display: flex;
@@ -99,14 +99,14 @@ h1 {
 }
 
 .parallax2 {
-    background-image: url(../assets/parallax-imagem2.jpg);
+    background-image: url('../assets/parallax-imagem2.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
 }
 
 .parallax3 {
-    background-image: url(../assets/parallax-imagem3.jpg);
+    background-image: url('../assets/parallax-imagem3.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -128,7 +128,7 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;    
-    background-image: url(../assets/parallax-imagem4.png);
+    background-image: url('../assets/parallax-imagem4.png');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -171,7 +171,7 @@ h1 {
 .content-horarios {
     height: 600px;
     text-align: center;
-    background-image: url(../assets/cafeteria.jpg);
+    background-image: url('../assets/cafeteria.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
